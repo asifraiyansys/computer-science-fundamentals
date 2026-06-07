@@ -25,5 +25,8 @@ int main () {
 
     cout << (int) ch <<endl;
 
+    cout << "I Love Bangaldesh" << std:: endl;
+    cout << "Thank you";
+
     return 0;
 }
