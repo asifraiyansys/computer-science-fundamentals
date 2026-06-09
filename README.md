@@ -41,26 +41,6 @@ This repository emphasizes clarity, consistency, maintainability, and performanc
 
 ---
 
-## Repository Structure
-
-```txt id="2f4j8x"
-computer-science-fundamentals/
-│
-├── algorithms/
-├── data-structures/
-├── problem-solving/
-├── competitive-programming/
-├── dynamic-programming/
-├── graphs/
-├── recursion/
-├── searching/
-├── sorting/
-├── notes/
-└── resources/
-```
-
----
-
 ## Engineering Principles
 
 This repository follows:
